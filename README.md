@@ -12,6 +12,8 @@ Program meminta pengguna memasukkan empat bilangan (a, b, c, dan d), kemudian me
 4. Masukkan empat bilangan saat diminta.
 5. Program akan menampilkan bilangan yang paling besar.
 
+
+
 2. URUT
 
 -Deskripsi
@@ -28,6 +30,8 @@ Jika ditemukan elemen yang lebih kecil, maka kedua elemen tersebut ditukar (swap
 4. Masukkan tiga bilangan saat diminta.
 5. Program akan menampilkan hasil pengurutan dari kecil ke besar.
 
+
+
 3. PERULANGAN
 
 -Deskripsi
@@ -43,6 +47,8 @@ Cara Menjalankan Program
 2. Simpan kode di atas
 3. Jalankan program melalui terminal atau VS Code 
 4. Program akan menampilkan tabel hasil penjumlahan angka dari 1 sampai 9.
+
+
 
 4. ACAK
 
